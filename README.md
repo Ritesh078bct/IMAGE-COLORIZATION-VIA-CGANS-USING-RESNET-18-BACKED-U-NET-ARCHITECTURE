@@ -1,4 +1,3 @@
-Here's a good README for your GitHub project, incorporating best practices and tailored to your project's specifics.
 
 -----
 
@@ -151,9 +150,6 @@ This script will calculate metrics like PSNR and SSIM and save example colorized
 | PSNR   | 2X.XX |
 
 
-## Contributing
-
-Contributions are welcome\! If you have any suggestions, bug reports, or want to contribute code, please feel free to open an issue or submit a pull request.
 
 ## Contributors
 *  MD. Astafar Alam (PUR078BCT068)
