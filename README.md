@@ -163,23 +163,32 @@ Also, include any quantitative results you've obtained, such as PSNR, SSIM, or F
 
 | Metric | Value |
 | :----- | :---- |
-| PSNR   | XX.XX |
-| SSIM   | 0.YYY |
-| FID    | ZZ.ZZ | *(If implemented)*
+| PSNR   | 2X.XX |
+
 
 ## Contributing
 
 Contributions are welcome\! If you have any suggestions, bug reports, or want to contribute code, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+## Contributors
+* 1. MD. Astafar Alam (PUR078BCT068)
+  2. Reshmi Jha (PUR078BCT066)
+  3. Ritesh Sahani (PUR078BCT068)
+  4. Subash Kr. Yadav (PUR078BCT087)
 
 ## Acknowledgments
 
-  * **PyTorch** for the deep learning framework.
-  * **ResNet** and **U-Net** architectures for inspiring the model design.
-  * **GANs (Generative Adversarial Networks)** for the underlying theoretical framework.
-  * (Add any specific papers or repositories that you heavily referenced or drew inspiration from.)
-
+We express our sincere gratitude to Mr. Pukar Karki, Deputy Head of the Department
+of Electronics and Computer Engineering, for providing us with the opportunity and re-
+sources to undertake this minor project. We are deeply thankful to our project supervi-
+sor, Assistant Prof. Binaylal Shrestha, for his invaluable guidance, constant encourage-
+ment, and insightful feedback throughout the development of this project on ”IMAGE
+COLORIZATION” using conditional Generative Adversarial Networks (cGANs).
+We also extend our appreciation to all the faculty members of the Electronics and Com-
+puter Department for their support and technical expertise, which greatly enriched our
+learning experience. Special thanks to our classmates and friends for their constructive
+suggestions and motivation. Finally, we acknowledge the unwavering support of our
+families, whose encouragement kept us motivated.
+This project would not have been possible without the collective contributions of ev-
+eryone involved.
 -----
