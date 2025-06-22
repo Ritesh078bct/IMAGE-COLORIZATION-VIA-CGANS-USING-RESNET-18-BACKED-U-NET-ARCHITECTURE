@@ -172,13 +172,13 @@ Contributions are welcome\! If you have any suggestions, bug reports, or want to
 
 ## Contributors
 * 1. MD. Astafar Alam (PUR078BCT068)
-  2. Reshmi Jha (PUR078BCT066)
-  3. Ritesh Sahani (PUR078BCT068)
-  4. Subash Kr. Yadav (PUR078BCT087)
+* 2. Reshmi Jha (PUR078BCT066)
+* 3. Ritesh Sahani (PUR078BCT068)
+* 4. Subash Kr. Yadav (PUR078BCT087)
 
 ## Acknowledgments
 
-We express our sincere gratitude to Mr. Pukar Karki, Deputy Head of the Department
+*** We express our sincere gratitude to Mr. Pukar Karki, Deputy Head of the Department
 of Electronics and Computer Engineering, for providing us with the opportunity and re-
 sources to undertake this minor project. We are deeply thankful to our project supervi-
 sor, Assistant Prof. Binaylal Shrestha, for his invaluable guidance, constant encourage-
