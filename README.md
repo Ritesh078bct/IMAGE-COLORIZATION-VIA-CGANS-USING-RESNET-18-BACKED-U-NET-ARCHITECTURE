@@ -14,8 +14,8 @@ This project explores the fascinating problem of image colorization, transformin
   * **ResNet-18 Backed U-Net Generator:** Employs a U-Net architecture with a ResNet-18 encoder for powerful feature extraction, followed by a decoder for upsampling and color channel prediction.
   * **PatchGAN Discriminator:** Incorporates a PatchGAN discriminator that classifies patches of the image as real or fake, promoting fine-grained realism in the generated outputs.
   * **Perceptual Loss (Optional but Recommended):** (If you've implemented this, add it. If not, consider it\!) Integrates a perceptual loss component using a pre-trained VGG network to guide the generator towards more visually pleasing and perceptually accurate colorizations.
-  * **Diverse Dataset Support:** Designed to be adaptable to various image datasets (e.g., ImageNet, Places365, or custom datasets).
-  * **Evaluation Metrics:** Includes scripts for evaluating performance using metrics relevant to image quality (e.g., PSNR, SSIM, FID if you've implemented it).
+  * **Diverse Dataset Support:** Designed to be adaptable to various image datasets (e.g., COCO sample).
+  * **Evaluation Metrics:** Includes scripts for evaluating performance using metrics relevant to image quality (e.g., PSNR).
 
 ## Why ResNet-18 and U-Net?
 
@@ -141,23 +141,8 @@ This script will calculate metrics like PSNR and SSIM and save example colorized
 ```
 
 ## Results
+![output_image](https://github.com/user-attachments/assets/2036b4ae-511b-4b43-b8d4-9172044161b3)
 
-(Here, you'd add visual examples of your model's performance. Good examples include:
-
-  * Original grayscale image
-  * Ground truth color image
-  * Generated colorized image
-
-Also, include any quantitative results you've obtained, such as PSNR, SSIM, or FID scores.)
-
-### Qualitative Results
-
-| Grayscale Input | Ground Truth | Colorized Output |
-| :-------------: | :----------: | :--------------: |
-|  |  |  |
-|  |  |  |
-
-*(Replace `images/grayscale_sampleX.jpg` with actual paths to images in your repo. Create an `images` directory if you don't have one.)*
 
 ### Quantitative Results
 
