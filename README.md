@@ -171,14 +171,14 @@ Also, include any quantitative results you've obtained, such as PSNR, SSIM, or F
 Contributions are welcome\! If you have any suggestions, bug reports, or want to contribute code, please feel free to open an issue or submit a pull request.
 
 ## Contributors
-* 1. MD. Astafar Alam (PUR078BCT068)
-* 2. Reshmi Jha (PUR078BCT066)
-* 3. Ritesh Sahani (PUR078BCT068)
-* 4. Subash Kr. Yadav (PUR078BCT087)
+*  MD. Astafar Alam (PUR078BCT068)
+*  Reshmi Jha (PUR078BCT066)
+*  Ritesh Sahani (PUR078BCT068)
+*  Subash Kr. Yadav (PUR078BCT087)
 
 ## Acknowledgments
 
-*** We express our sincere gratitude to Mr. Pukar Karki, Deputy Head of the Department
+ We express our sincere gratitude to Mr. Pukar Karki, Deputy Head of the Department
 of Electronics and Computer Engineering, for providing us with the opportunity and re-
 sources to undertake this minor project. We are deeply thankful to our project supervi-
 sor, Assistant Prof. Binaylal Shrestha, for his invaluable guidance, constant encourage-
@@ -191,4 +191,6 @@ suggestions and motivation. Finally, we acknowledge the unwavering support of ou
 families, whose encouragement kept us motivated.
 This project would not have been possible without the collective contributions of ev-
 eryone involved.
+
+
 -----
